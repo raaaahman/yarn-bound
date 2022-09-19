@@ -3,6 +3,7 @@
   "version": "0.3.0",
   "description": "Quality of life wrapper around bondage.js",
   "main": "dist/yarn-bound.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "test": "jest --verbose false",
     "test:coverage": "jest --coverage --verbose false",
